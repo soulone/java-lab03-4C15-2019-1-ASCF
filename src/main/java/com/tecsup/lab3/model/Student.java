@@ -1,8 +1,8 @@
 package com.tecsup.lab3.model;
 
 public class Student {
-	String kk="Anuel";
+	String bb="Anuel";
 	
-	String kktumama="La tuya";
+	String bb2="Brrr";
 	
 }
